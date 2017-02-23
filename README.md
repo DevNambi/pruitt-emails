@@ -1,5 +1,6 @@
-# pruitt-emails
-Emails released by CMD about Scott Pruitt
+# Pruitt-Emails
+
+Emails released by [CMD about Scott Pruitt](http://www.exposedbycmd.org/Scott-Pruitt-Missing-Emails )
 
 ### Questions to Answer:
 
