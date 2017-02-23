@@ -1,7 +1,7 @@
 # pruitt-emails
 Emails released by CMD about Scott Pruitt
 
-### Goals:
+### Questions to Answer:
 
 * Who - who are the people sending these messages? Who is receiving them? Who do they work for?
     * Who are the most common senders or receivers?
@@ -11,9 +11,16 @@ Emails released by CMD about Scott Pruitt
 
 ### Steps
 
-* Parse the emails into a data frame, with fields for from, to, when, subject, and message body. Include bate stamps for reference. 
+**1. Data Cleanup**
+
+* Parse the emails into a data frame, with fields for the From, To, Date, Subject, and Message text. Include bate stamps for reference. 
     * This is in [Email Splits](Email%20Splits.ipynb)
-* (Nice to have) - each message has a link to an HTML page for the original email with its formatting
+* (Nice to have) - an ID / identifier in each email with a link to an HTML page for the original email with its formatting
+
+**2. Analysis and Presentation**
+
+* Start answering the questions above
+* Visualize relationships, timelines, and topics. 
 
 
 ### Getting Started
